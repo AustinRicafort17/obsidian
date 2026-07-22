@@ -95,5 +95,5 @@ Friday
 	22:00-24:00
 			Game
 			Sleep
-==Saturday== 
-==Sunday== - 
+Saturday
+Sunday - ==Setup After Driving School==
