@@ -95,6 +95,5 @@ Friday
 	22:00-24:00
 			Game
 			Sleep
-Saturday 
-
-	
+==Saturday== 
+==Sunday== - 
