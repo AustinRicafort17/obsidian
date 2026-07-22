@@ -1,3 +1,3 @@
-#Goals #Productive 
+#Goals 
 ![[Farmhouse.jpg]]
 
