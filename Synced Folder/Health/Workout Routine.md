@@ -12,7 +12,10 @@ M,W,F
 	2xamrap - ChinUps into Dips
 	Rest 1min
 
-	1xa
+	1xamrap - DB lunges 
+	1xamrap - DB RDL
+	Rest 1min
+	
 	2xamrap - DB OHP ->
 	2xamrap - DB curls
 	
