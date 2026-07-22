@@ -18,7 +18,14 @@ M-Th
 		Vitamins
 7:20-7:35
 		Study
-		
+
+
+7:35-12:05 
+		Work
+		Anki in between 
+12:05-12:20
+
+
 		
 
 
