@@ -92,4 +92,9 @@ Friday
 			Shower
 	19:30-22:00
 			Movie Night 
-	22:0
+	22:00-24:00
+			Game
+			Sleep
+Saturday 
+
+	
