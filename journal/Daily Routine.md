@@ -27,7 +27,11 @@ M-Th
 		lunch 
 		日本語 passive immersion 
 12:20-12:40
-		日本語 
+		日本語 focused immersion 
+12:40-13:00 
+		Nap
+13:00-20:30
+		
 
 		
 
