@@ -1,4 +1,4 @@
-
+#Health 
 M,W,F
 
 	2min Warmup 
@@ -19,7 +19,9 @@ M,W,F
 	2xamrap - DB OHP ->
 	2xamrap - DB curls
 	Rest 1min
-	2xamrap - l
+	
+	2xamrap - Lateral Raises 
+	2xamrap - Hammer Curls
 
 	
 	
