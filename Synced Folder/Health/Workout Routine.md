@@ -7,5 +7,7 @@ M,W,F
 		Cat Cows
 		Leg Raises 
 	2xamrap - PullUps into Pushups    
-	Rest 30s
-	2x - ChinUps into 
+	Rest 1min
+	2x - ChinUps into Dips
+	
+	
