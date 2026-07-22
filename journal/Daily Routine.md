@@ -38,9 +38,11 @@ M-Th
 		Dishes
 21:00-21:30
 		Wife time
-21:30-22:30
+		Shower
+		Skincare
+21:30-22
 		Freetime 
-
+22:30-23:00
 		
 
 
