@@ -8,6 +8,9 @@ M,W,F
 		Leg Raises 
 	2xamrap - PullUps into Pushups    
 	Rest 1min
-	2x - ChinUps into Dips
+	2xamrap - ChinUps into Dips
+	Rest 1min
+	2xamrap - DB OHP
+	2xamrap - DB curls
 	
 	
