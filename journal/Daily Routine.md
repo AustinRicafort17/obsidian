@@ -31,6 +31,11 @@ M-Th
 12:40-13:00 
 		Nap
 13:00-20:30
+		Work
+		Read OTP in between 
+20:30-21:00
+		Dinner
+		Dishes
 		
 
 		
