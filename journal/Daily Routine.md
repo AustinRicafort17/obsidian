@@ -16,7 +16,9 @@ M-Th
 		Study
 7:10-7:20
 		Vitamins
-7:20
+7:20-7:35
+		Study
+		
 		
 
 
