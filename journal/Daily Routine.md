@@ -40,9 +40,12 @@ M-Th
 		Wife time
 		Shower
 		Skincare
-21:30-22
+21:30-22:00
 		Freetime 
-22:30-23:00
+22:00-22:30
+		Reading 
+22:30-23:00 
+		
 		
 
 
