@@ -3,4 +3,7 @@ M,W,F
 
 	2min Warmup 
 		Arm Circles 
-		Ca
+		Body Squats 
+		Cat Cows
+		Leg Raises 
+	2x - PullUps into Pushups 
