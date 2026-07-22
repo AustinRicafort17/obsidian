@@ -86,4 +86,10 @@ Friday
 			Nap
 	13:00-18:30
 			Work
-	18:30-
+	18:30-19:30
+			Dinner
+			Dishes
+			Shower
+	19:30-22:00
+			Movie Night 
+	22:0
