@@ -45,7 +45,8 @@ M-Th
 22:00-22:30
 		Reading 
 22:30-23:00 
-		
+		Bed
+		Sleep
 		
 
 
