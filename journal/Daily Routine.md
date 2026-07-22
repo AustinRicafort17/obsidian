@@ -4,6 +4,7 @@ M-Th
 		Breakfast & Mealprep
 		Bathroom
 		Body weight 
-		
-
+5:50-6:20 
+		[[DAILY EXERCISE ]]
+6:20
 
