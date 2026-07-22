@@ -24,7 +24,10 @@ M-Th
 		Work
 		Anki in between 
 12:05-12:20
-
+		lunch 
+		Japanese listening 
+12:20-12:40
+		
 
 		
 
