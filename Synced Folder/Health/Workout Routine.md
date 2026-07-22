@@ -18,5 +18,8 @@ M,W,F
 	
 	2xamrap - DB OHP ->
 	2xamrap - DB curls
+	Rest 1min
+	2xamrap - l
+
 	
 	
