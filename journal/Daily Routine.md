@@ -11,5 +11,12 @@ M-Th
 		Breakfast 
 6:30-6:40
 		Cold Shower 
+		Skincare
+6:40-7:10
+		Study
+7:10-7:20
+		Vitamins
+7:20
+		
 
 
