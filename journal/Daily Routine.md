@@ -25,9 +25,9 @@ M-Th
 		Anki in between 
 12:05-12:20
 		lunch 
-		Japanese listening 
+		日本語 passive immersion 
 12:20-12:40
-		
+		日本語 
 
 		
 
