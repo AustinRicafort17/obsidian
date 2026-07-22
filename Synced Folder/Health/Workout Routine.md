@@ -6,4 +6,6 @@ M,W,F
 		Body Squats 
 		Cat Cows
 		Leg Raises 
-	2x - PullUps into Pushups 
+	2xamrap - PullUps into Pushups    
+	Rest 30s
+	2x - ChinUps into 
