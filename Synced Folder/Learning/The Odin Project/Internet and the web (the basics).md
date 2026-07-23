@@ -1,4 +1,4 @@
-#Learning #notes #otp
+#Learning #notes #TOP
 
 as i understand it,
 my computer is connected to a network that has an IP address that is connected to a router that enables an ISP to connect my network to other computers,websites etc. via undersea cables 
