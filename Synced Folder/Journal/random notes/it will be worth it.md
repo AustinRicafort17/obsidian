@@ -4,5 +4,5 @@
 
 
 
-now i do not plan on losing my mind but this quote is 
+now i do not plan on losing my mind but this quote is cool
 
