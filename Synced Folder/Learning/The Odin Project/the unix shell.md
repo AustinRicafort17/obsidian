@@ -6,7 +6,7 @@ bash is the most popular unis shell. <--- idk wtf this even means!
 
 its faster 
 makes automation possible
-i imagine making a ""
+i imagine making a script(a combination of commands) that copies the chapter name of every chapter of a book trilogy
 
 ==COMMANDS==
 
