@@ -5,7 +5,8 @@ bash is the most popular unis shell. <--- idk wtf this even means!
 ==why even use this?==
 
 its faster 
-
+makes automation possible
+i imagine making a ""
 
 ==COMMANDS==
 
