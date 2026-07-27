@@ -20,4 +20,4 @@ cd
 -moves the cli into a directory
 
 ls 
--lists the directories in my current pwd(present working director) in the pc
+-lists the directories in my current pwd(present working directory) in the pc
