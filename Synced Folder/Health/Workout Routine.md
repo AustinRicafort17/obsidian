@@ -27,7 +27,7 @@ M,W,F
 	| PULL UPS |     |
 	| -------- | 
 	|          |     |
-
+[[Workout LOG August 2026]]
 
 
 
