@@ -33,6 +33,8 @@ whoami
 
 cd
 -moves the cli into a directory
+	cd..
+	-moves up one directory
 
 ls 
 -lists the directories in my current pwd(present working directory) in the pc
