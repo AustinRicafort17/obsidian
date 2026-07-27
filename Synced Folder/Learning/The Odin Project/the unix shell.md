@@ -19,7 +19,7 @@ tmp is for temporary files
 
 most pc are like this.
 
-/ is also a separator and als
+/ is also a separator and also indicates that this is a directory
 
 
 
@@ -38,3 +38,6 @@ ls
 
 pwd
 -present working directory
+
+clear -x
+-clears out the terminal but can still access the previous com
