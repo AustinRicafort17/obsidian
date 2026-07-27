@@ -17,7 +17,13 @@ data is for misc data files
 users is for users' personal directories
 tmp is for temporary files
 
-most pc are like this
+most pc are like this.
+
+/ is also a s
+
+
+
+
 
 ==COMMANDS==
 
@@ -29,3 +35,6 @@ cd
 
 ls 
 -lists the directories in my current pwd(present working directory) in the pc
+
+pwd
+-present working directory
