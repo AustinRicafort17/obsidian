@@ -13,8 +13,11 @@ i imagine making a script (a combination of commands) that copies the chapter na
 
 / is the root directory 
 bin is for built in programs
+data is for misc data files
+users is for users' personal directories
+tmp is for temporary files
 
-
+most pc are like this
 
 ==COMMANDS==
 
