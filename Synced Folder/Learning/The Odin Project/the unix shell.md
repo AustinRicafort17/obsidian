@@ -9,6 +9,11 @@ its faster
 makes automation possible
 i imagine making a script (a combination of commands) that copies the chapter name of every chapter of a book trilogy and then pastes it into a text file.
 
+![[filesystem.svg]]
+
+/ is the root directory 
+bin is for built in programs
+
 
 
 ==COMMANDS==
