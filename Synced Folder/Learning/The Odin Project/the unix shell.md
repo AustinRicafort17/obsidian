@@ -19,7 +19,7 @@ tmp is for temporary files
 
 most pc are like this.
 
-/ is also a separator
+/ is also a separator and als
 
 
 
