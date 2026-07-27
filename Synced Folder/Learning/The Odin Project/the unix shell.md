@@ -33,7 +33,7 @@ whoami
 
 cd
 -moves the cli into a directory
-	cd..
+	cd ..
 	-moves up one directory
 
 ls 
@@ -44,3 +44,4 @@ pwd
 
 clear -x
 -clears out the terminal but can still access the previous lines with up and down keys
+
