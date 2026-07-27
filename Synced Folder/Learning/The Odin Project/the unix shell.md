@@ -52,5 +52,9 @@ clear -x
 -clears out the terminal but can still access the previous lines with up and down keys
 
 touch
+-generates a new file
+mkdir
+-makes a directory
 
-
+rm
+-removes a file
