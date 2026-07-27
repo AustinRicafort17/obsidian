@@ -26,7 +26,9 @@ adding --help to a command shows how to use command or program
 "man" before the command is the manual for it
 
 
+==General Syntax of a Shell Command==
 
+![[shell_command_syntax.svg]]
 
 ==COMMANDS==
 
