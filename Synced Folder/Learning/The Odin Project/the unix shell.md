@@ -36,6 +36,8 @@ cd
 ls 
 -lists the directories in my current pwd(present working directory) in the pc
 
+	
+
 pwd
 -present working directory
 
