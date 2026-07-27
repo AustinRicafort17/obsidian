@@ -23,5 +23,7 @@ M,W,F
 	2xamrap - Lateral Raises 
 	2xamrap - Hammer Curls
 
-	
-	
+
+	| PULL UPS |     |
+	| -------- | 
+	|          |     |
