@@ -21,9 +21,9 @@ most pc are like this.
 
 / is also a separator and also indicates that this is a directory
 
-adding --help to a command shows the 
+adding --help to a command shows how to use command or program
 
-
+"man" before the command is the manual for it
 
 
 ==COMMANDS==
