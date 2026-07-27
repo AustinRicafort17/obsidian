@@ -51,3 +51,6 @@ pwd
 clear -x
 -clears out the terminal but can still access the previous lines with up and down keys
 
+touch
+
+
