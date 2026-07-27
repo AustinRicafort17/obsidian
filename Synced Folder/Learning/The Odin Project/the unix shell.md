@@ -21,6 +21,7 @@ most pc are like this.
 
 / is also a separator and also indicates that this is a directory
 
+adding --help to a command shows the 
 
 
 
@@ -35,8 +36,6 @@ cd
 
 ls 
 -lists the directories in my current pwd(present working directory) in the pc
-
-	
 
 pwd
 -present working directory
