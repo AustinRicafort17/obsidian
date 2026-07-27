@@ -26,6 +26,8 @@ adding --help to a command shows how to use command or program
 "man" before the command is the manual for it
 
 
+
+
 ==COMMANDS==
 
 whoami 
