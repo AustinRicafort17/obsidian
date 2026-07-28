@@ -9,7 +9,7 @@ elements and tags:
 `<p>` is the tag and "don quixote" is the element
 
 `<!DOCTYPE html>
-``<html lang="en">
+`<html lang="en">
   <head>
     <meta charset="UTF-8">
     <title>My First Webpage</title>
@@ -18,5 +18,5 @@ elements and tags:
   <body>
     <h1>Hello World!</h1>
   </body>
-</html>```
-
+</html>`
+`
