@@ -42,7 +42,7 @@ in a directory containing : pyromancer.jpg cryomancer.jpg geomancer.jpg  gyroman
 
 "?yromancer.jpg" means pyromancer.jpg and gyromancer.jpg
 
-????mancer.jpg would 
+????mancer.jpg would represent all the files except geomancer.jpg because there are 4 ???? and the geo in geomancer is only 3 characters
 
     
 
