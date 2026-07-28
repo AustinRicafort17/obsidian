@@ -32,9 +32,9 @@ adding --help to a command shows how to use command or program
 
 ==wildcards==
 *(asterisk) is a wildcard that represents 1 ore more characters .
-in a directory containing : pyromancer cryomancer geomancer,
+in a directory containing : pyromancer.jpg cryomancer.jpg geomancer.jpg  
 
-*
+   *mancer.jpg would represent anyfile with 
 
 
 ==COMMANDS==
