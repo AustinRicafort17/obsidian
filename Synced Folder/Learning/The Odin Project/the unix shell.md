@@ -44,7 +44,7 @@ in a directory containing : pyromancer.jpg cryomancer.jpg geomancer.jpg  gyroman
 
 ????mancer.jpg would represent all the files except geomancer.jpg because there are 4 ???? and the geo in geomancer is only 3 characters
 
-==I NEED TO BE USING THESE WILDCARDS
+==I NEED TO BE USING THESE WILDCARDS==
 
 
 ==COMMANDS==
