@@ -19,7 +19,8 @@ Resistance Training
 | 26  |               |            |               |                  |     |        |                |                |       |
 | 28  |               |            |               |                  |     |        |                |                |       |
 | 31  |               |            |               |                  |     |        |                |                |       |
-Chest 12
+Sets/week
+
 
 
 
