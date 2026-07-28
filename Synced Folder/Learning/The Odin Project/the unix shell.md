@@ -59,6 +59,7 @@ mkdir
 rm
 -removes a file
 	the "-i" option will promt me y/n? because rm deleting is permanent (no trashcan)
+	 cant delete a d
 
 cp
 -copies file
