@@ -58,3 +58,6 @@ mkdir
 
 rm
 -removes a file
+
+cp
+-copies file
