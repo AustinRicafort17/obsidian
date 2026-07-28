@@ -30,7 +30,9 @@ adding --help to a command shows how to use command or program
 
 ![[shell_command_syntax.svg]]
 
-"*" (asterisk)
+==wildcards==
+*(asterisk) is a wildcard that represents 1 ore more characters 
+in a 
 
 
 ==COMMANDS==
