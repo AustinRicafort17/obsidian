@@ -30,6 +30,9 @@ adding --help to a command shows how to use command or program
 
 ![[shell_command_syntax.svg]]
 
+:"|}{P<>?+_)(*&^%$#@!!!"""""'''''|||||}}}}{{{{{;;;''''}}}}})}
+
+
 ==COMMANDS==
 
 whoami 
