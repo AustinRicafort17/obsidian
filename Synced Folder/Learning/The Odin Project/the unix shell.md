@@ -31,14 +31,14 @@ adding --help to a command shows how to use command or program
 ![[shell_command_syntax.svg]]
 
 ==wildcards==
-![[asterisk.webp]]
+
 *(asterisk) is a wildcard that represents 1 ore more characters .
 in a directory containing : pyromancer.jpg cryomancer.jpg geomancer.jpg  
 
    "(asterisk)mancer.jpg" would represent anyfile with mancer.jpg
  "p(asterisk)mancer.jpg" would only represent pyromancer.jpg
 
-
+? is also a wildcard that represend just a single character
 
 
     
