@@ -30,7 +30,7 @@ adding --help to a command shows how to use command or program
 
 ![[shell_command_syntax.svg]]
 
-
+"*" (asteristk)
 
 
 ==COMMANDS==
