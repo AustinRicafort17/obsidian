@@ -11,3 +11,4 @@ tags:
   - notes
 cover:
 ---
+![[IMG_5417.jpeg]]
