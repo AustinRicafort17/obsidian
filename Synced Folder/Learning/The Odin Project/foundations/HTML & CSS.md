@@ -24,3 +24,5 @@ basic html skeleton
   `</body>`
 `</html>`
 
+
+adding a comment in htmk <!--comment-->
