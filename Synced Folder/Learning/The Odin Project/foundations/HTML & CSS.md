@@ -26,3 +26,4 @@ basic html skeleton
 
 
 ==adding a comment in html== <!--comment-->
+	==comment shortcut== Ctrl + /
