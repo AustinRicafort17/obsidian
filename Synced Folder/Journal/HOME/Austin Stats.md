@@ -9,6 +9,5 @@ education: High School
 experience: 7 years in japanese electronic company (printers) (assembly) (parts distribution)
 tags:
   - notes
-cover:
+cover: Austin.jpeg
 ---
-![[IMG_5417.jpeg]]
