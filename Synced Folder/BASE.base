@@ -1,0 +1,12 @@
+views:
+  - type: cards
+    name: HOME
+    filters:
+      and:
+        - file.inFolder("austin/Synced Folder/Journal")
+    order:
+      - file.name
+      - tags
+    cardSize: 200
+    imageAspectRatio: 1.05
+    image: note.cover
