@@ -9,7 +9,7 @@ its faster
 makes automation possible
 i imagine making a script (a combination of commands) that copies the chapter name of every chapter of a book trilogy and then pastes it into a text file.
 
-![[filesystem.svg]]
+![[filesystem.svg|659]]
 
 / is the root directory 
 bin is for built in programs
@@ -28,7 +28,7 @@ adding --help to a command shows how to use command or program
 
 ==General Syntax of a Shell Command==
 
-![[shell_command_syntax.svg]]
+![[shell_command_syntax.svg|665]]
 
 ==wildcards==
 
