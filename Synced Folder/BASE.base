@@ -3,7 +3,7 @@ views:
     name: HOME
     filters:
       and:
-        - file.inFolder("austin/Synced Folder/Journal")
+        - file.folder.contains("austin/Synced Folder")
     order:
       - file.name
       - tags
