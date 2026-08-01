@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"d7ba3967628fff2f","type":"file","file":"austin/Synced Folder/Journal/Daily Routine.md","x":2100,"y":-2020,"width":620,"height":2600},
+		{"id":"368dcab6eed089f8","type":"file","file":"austin/Synced Folder/Journal/The Goals.md","x":1640,"y":-2020,"width":400,"height":1300},
+		{"id":"2cf56078c78c2d38","type":"file","file":"austin/Synced Folder/Journal/dailies.md","x":-100,"y":-1711,"width":800,"height":991}
+	],
+	"edges":[]
+}
