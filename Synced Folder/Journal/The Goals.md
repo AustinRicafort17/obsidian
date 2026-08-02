@@ -1,3 +1,8 @@
+---
+tags:
+  - "#goals"
+  - motivation
+---
 
 
 Looong Term goals
