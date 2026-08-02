@@ -1,7 +1,7 @@
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  
-number of columns: 3  
+number of columns: 2
 largest column: left  
 ```
 
@@ -13,12 +13,6 @@ TABLE FROM #health
 
 ```dataview
 LIST from #notes 
-```
-
---- end-column ---
-
-```dataview
-TASK from #Movies 
 ```
 
 --- end-column ---
