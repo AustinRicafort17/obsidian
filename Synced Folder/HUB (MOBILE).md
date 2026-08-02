@@ -1,4 +1,5 @@
 ```dataview
-TABLE from #Learning 
+TITLE: Tasks
+Tasks from #Learning 
 LIMIT 5
 ```
