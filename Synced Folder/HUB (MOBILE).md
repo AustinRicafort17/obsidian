@@ -1,4 +1,4 @@
 ```dataview
 TASK
-FROM "Journal"
+FROM #tasks 
 ```
