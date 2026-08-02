@@ -9,7 +9,7 @@ Resistance Training
 |     | Super sets -> | Rest       | Super sets -> | Rest             | Super sets -> | Rest   |                   |                   |       |
 | --- | ------------- | ---------- | ------------- | ---------------- | ------------- | ------ | ----------------- | ----------------- | ----- |
 |     | PullUps  ->   | PushUps 2x | Dips    ->    | Dumbbell Rows 2x | RDL ->        | Lunges | Lateral Raises 3x | Dumbbell Curls 2x | Notes |
-| 3   |               |            |               |                  |               |        |                   |                   |       |
+| 3   | 3-3           | 14-10      |               |                  |               |        |                   |                   |       |
 | 5   |               |            |               |                  |               |        |                   |                   |       |
 | 7   |               |            |               |                  |               |        |                   |                   |       |
 | 10  |               |            |               |                  |               |        |                   |                   |       |
