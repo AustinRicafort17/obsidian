@@ -1,5 +1,7 @@
 ---
 tags:
+  - health
+  - daily
 ---
 
 Resistance Training 
