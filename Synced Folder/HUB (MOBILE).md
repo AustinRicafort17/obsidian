@@ -1,5 +1,4 @@
 ```dataview
-TITLE: Tasks
-Tasks from #Learning 
+TABLE WITHOUT ID from #Learning 
 LIMIT 5
 ```
