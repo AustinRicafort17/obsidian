@@ -1,4 +1,9 @@
-#Health 
+---
+type: health
+tags:
+  - Health
+---
+
 
 
 
@@ -22,11 +27,6 @@ Resistance Training
 | 28  |               |            |               |                  |               |        |                   |                   |       |
 | 31  |               |            |               |                  |               |        |                   |                   |       |
 Sets/week
-
-
-
-
-
 
 Run
 
