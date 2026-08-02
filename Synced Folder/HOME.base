@@ -1,8 +1,0 @@
-views:
-  - type: cards
-    name: View
-    filters:
-      and:
-        - file.hasTag("notes")
-    cardSize: 120
-    image: note.cover
