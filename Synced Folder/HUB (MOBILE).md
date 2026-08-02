@@ -1,7 +1,5 @@
 ```dataview
-TABLE WITHOUT ID
+TASK WITHOUT ID
 file.link AS "Tasks"
 WHERE Journal/ 
-LIMIT 5
-SORT file.mday DESC
 ```
