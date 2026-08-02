@@ -1,14 +1,6 @@
 ---
-type: health
 tags:
-  - health
-  - "#habit"
-cssclasses:
 ---
-
-
-
-
 
 Resistance Training 
 
