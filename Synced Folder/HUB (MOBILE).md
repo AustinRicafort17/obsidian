@@ -1,4 +1,4 @@
 ```dataview
-TABLE from #Learning 
+TABLE file.link AS from #Learning 
 LIMIT 5
 ```
