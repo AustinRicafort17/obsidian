@@ -1,4 +1,4 @@
 ```dataview
 TABLE from #Learning 
-LIM
+LIMIT 5
 ```
