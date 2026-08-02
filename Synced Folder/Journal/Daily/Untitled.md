@@ -11,7 +11,7 @@ tags:
   - notes
   - motivation
   - Productive
-  - thoughts
+  - daily
 ---
 Test
 
