@@ -1,7 +1,7 @@
 ---
 type: health
 tags:
-  - Health
+  - health
   - "#habit"
 aliases:
 ---
