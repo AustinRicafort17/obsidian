@@ -3,7 +3,7 @@ type: health
 tags:
   - health
   - "#habit"
-aliases:
+cssclasses:
 ---
 
 
