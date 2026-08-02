@@ -4,6 +4,7 @@ tags:
   - motivation
   - Productive
   - Learning
+  - notes
 cover: Austin.jpeg
 ---
 
