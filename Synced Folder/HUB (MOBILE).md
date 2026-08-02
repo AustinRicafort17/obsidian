@@ -1,4 +1,4 @@
 ```dataview
-TABLE WITHOUT ID from #Learning 
+TABLE from #Learning 
 LIMIT 5
 ```
