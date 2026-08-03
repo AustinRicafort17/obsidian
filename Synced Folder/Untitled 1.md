@@ -1,7 +1,7 @@
 ```tracker
 searchType: frontmatter
 searchTarget: exercise
-folder: Journal/Daily
+folder: Synced Folder/Journal/Daily
 
 month:
     mode: annotation
